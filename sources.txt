@@ -1,0 +1,8 @@
+Datasets that were combined to make our dataset:
+
+https://universe.roboflow.com/placard-detection/handicap-placard-detection/dataset/1#
+https://universe.roboflow.com/symbol-of-access/mxi/dataset/2
+https://universe.roboflow.com/wefwe-wsuvw/diznnnnn/dataset/1#
+https://universe.roboflow.com/rr-eeu90/persoanehandicap/dataset/1#
+https://universe.roboflow.com/wefwe-wsuvw/dizn/dataset/1#
+
